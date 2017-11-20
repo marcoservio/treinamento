@@ -9,7 +9,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="container menu-meio">
-                <a class="nav-link" href="home.php">
+                <a class="nav-link" href="index.php">
                     <img class="menu-meio-img" src="img/M3Site-1.png">
                 </a>
             </div>
@@ -21,7 +21,7 @@
                 <div class="container">				
                     <ul class="menu-ul navbar-nav">
                         <li class="menu-ul-li-a nav-item">
-                            <a class="nav-link" href="home.php">Home</a>
+                            <a class="nav-link" href="index.php">Home</a>
                         </li>	
                         <li class="menu-ul-li-a nav-item">
                             <div class="nav-item dropdown">					
@@ -65,6 +65,9 @@
                                                     <li class="nav-item">
                                                         <a class="nav-link" href="comparacao.php">Comparação</a>
                                                     </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="melhor-antivirus.php">Melhor Antivírus</a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -100,6 +103,9 @@
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="nav-link" href="comparacao.php">Comparação</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="melhor-antivirus.php">Melhor Antivírus</a>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -139,6 +145,9 @@
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="nav-link" href="comparacao.php">Comparação</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="melhor-antivirus.php">Melhor Antivírus</a>
                                                     </li>
                                                 </ul>
                                             </li>
