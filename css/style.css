@@ -1,3 +1,8 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 .linkVideo {
     display: flex !important;
     color: #000000 !important;
@@ -10,47 +15,52 @@
 }
 
 .menu ul li a:hover {
-	color: #000000 !important;
-	font-weight: bold;
+    color: #000000 !important;
+    font-weight: bold;
 }
 
 .dropdown-menu {
-	min-width: 12rem !important;
+    min-width: 12rem !important;
+}
+
+.navbar-nav .nav-link {
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 .navbar{
-	background-color: #f2f2f2 !important;
+    background-color: #f2f2f2 !important;
 }
 
 .menu-topo{
-	display: block;
-	height:34px;
-	background-color: #F76A0C;
+    display: block;
+    height:34px;
+    background-color: #F76A0C;
 }
 
 .menu-meio{
-	display: block;
-	height:85px;
-	text-align: center;
-	background-color: #f9f9f9;
+    display: block;
+    height:85px;
+    text-align: center;
+    background-color: #f9f9f9;
 }
 
 .menu-meio-img{
-	margin-top: 20px;
+    margin-top: 20px;
 }
 
 .menu-ul {
-	margin-left: 0px !important;
+    margin-left: 0px !important;
 }
 
 .menu-ul-li-a {				
-	margin: 0px 50px 0px 50px !important;
+    margin: 0px 50px 0px 50px !important;
 }
 
 .menu ul li a {
-	font-weight: 600;
-	font-style: normal;
-	font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
 }
 
 .imgVideo {
