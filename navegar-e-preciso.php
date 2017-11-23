@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>        
-        <title>Navegar é preciso</title>
+        <title>Navegar é preciso • M3 Tecnologia</title>
         <?php
             include 'templates/header.tpl';
         ?>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>A defesa</title>
+        <title>A defesa • M3 Tecnologia</title>
         <?php
             include 'templates/header.tpl';
         ?>

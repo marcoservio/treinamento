@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>OTRS</title>
+        <title>OTRS • M3 Tecnologia</title>
         <?php
             include 'templates/header.tpl';
         ?>

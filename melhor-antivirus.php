@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Melhor Antivírus</title>
+        <title>Melhor Antivírus • M3 Tecnologia</title>
         <?php
             include 'templates/header.tpl';
         ?>

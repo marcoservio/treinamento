@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
-        <title>Home</title>        
+        <title>M3 Tecnologia</title>     
         <?php
             include 'templates/header.tpl';
         ?>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Comparação</title>
+        <title>Comparação • M3 Tecnologia</title>
         <?php
             include 'templates/header.tpl';
         ?>

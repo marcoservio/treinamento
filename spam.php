@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Spam</title>
+        <title>Spam • M3 Tecnologia</title>
         <?php
             include 'templates/header.tpl';
         ?>

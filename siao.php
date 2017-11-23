@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>SIAO</title>
+        <title>SIAO • M3 Tecnologia</title>
         <?php
             include 'templates/header.tpl';
         ?>
