@@ -10,6 +10,10 @@
     outline: none !important;
 }
 
+footer p {
+    font-size: 12px;
+}
+
 .starter-template {
     padding: 1rem;
 }
