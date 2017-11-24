@@ -51,29 +51,6 @@
                                                         </li>                                 
                                                     </ul>
                                                 </li>
-                                                <li class="nav-item dropdown-submenu">
-                                                    <a class="nav-link" href="#">Videos Educativos</a>
-                                                    <ul class="nav-item dropdown-menu">
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="navegar-e-preciso.php">Navegar é preciso</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="os-invasores.php">Os invasores</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="spam.php">Spam</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="defesa.php">A defesa</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="comparacao.php">Comparação</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="melhor-antivirus.php">Melhor Antivírus</a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
                                             </ul>
                                         </li>
                                         <li class="nav-item dropdown-submenu">
@@ -87,29 +64,6 @@
                                                         </li>
                                                         <li class="nav-item">
                                                             <a class="nav-link" href="otrs.php">OTRS</a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-                                                <li class="nav-item dropdown-submenu">
-                                                    <a class="nav-link" href="#">Videos Educativos</a>
-                                                    <ul class="nav-item dropdown-menu">
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="navegar-e-preciso.php">Navegar é preciso</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="os-invasores.php">Os invasores</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="spam.php">Spam</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="defesa.php">A defesa</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="comparacao.php">Comparação</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="melhor-antivirus.php">Melhor Antivírus</a>
                                                         </li>
                                                     </ul>
                                                 </li>
@@ -127,33 +81,30 @@
                                                         <li class="nav-item">
                                                             <a class="nav-link" href="otrs-sup.php">OTRS</a>
                                                         </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="#">Bitdefender</a>
-                                                        </li>
                                                     </ul>
+                                                </li>                                                
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown-submenu">
+                                            <a class="nav-link" href="#">Videos Educativos</a>
+                                            <ul class="nav-item dropdown-menu">
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="navegar-e-preciso.php">Navegar é preciso</a>
                                                 </li>
-                                                <li class="nav-item dropdown-submenu">
-                                                    <a class="nav-link" href="#">Videos Educativos</a>
-                                                    <ul class="nav-item dropdown-menu">
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="navegar-e-preciso.php">Navegar é preciso</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="os-invasores.php">Os invasores</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="spam.php">Spam</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="defesa.php">A defesa</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="comparacao.php">Comparação</a>
-                                                        </li>
-                                                        <li class="nav-item">
-                                                            <a class="nav-link" href="melhor-antivirus.php">Melhor Antivírus</a>
-                                                        </li>
-                                                    </ul>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="os-invasores.php">Os invasores</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="spam.php">Spam</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="defesa.php">A defesa</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="comparacao.php">Comparação</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="melhor-antivirus.php">Melhor Antivírus</a>
                                                 </li>
                                             </ul>
                                         </li>

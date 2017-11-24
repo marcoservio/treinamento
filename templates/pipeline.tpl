@@ -1,6 +1,6 @@
 <div class="container starter-template">
     <ul class="list-unstyled">
-        <li class="media">
+        <li class="media my-4">
             <a href="#" class="linkVideo" data-toggle="modal" data-target="#modalCadastroClientePipeline">
                 <img src="img/img-videos/pipeline.png" alt="">
                 <div class="media-body">

@@ -66,6 +66,17 @@
                 </div>
             </a>
         </li>
+        <li class="media  my-4">
+            <a href="#" class="linkVideo" data-toggle="modal" data-target="#modalCadastroOportunidade">
+                <img src="img/img-videos/siao.png" alt="">
+                <div class="media-body">
+                    <div class="imgVideo">
+                        <h5 class="mt-0 mb-1">Cadastro de Oportunidade</h5>
+                        Esse video mostra como uma oportunidade no SIAO.
+                    </div>
+                </div>
+            </a>
+        </li>
     </ul>
     <?php
         include 'templates/footer.tpl';
@@ -174,6 +185,24 @@
             </div>
             <div class="modal-body">
                 <video class="embed-responsive embed-responsive-16by9 video" src="videos/siao/EnvioProposta.mp4" controls></video>                
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="StopVideoModal()" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="modalCadastroOportunidade" class="modal fade" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Cadastro de Oportunidade</h5>
+                <button type="button" onclick="StopVideoModal()" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <video class="embed-responsive embed-responsive-16by9 video" src="videos/siao/Cadastro Oportunidade.mp4" controls></video>                
             </div>
             <div class="modal-footer">
                 <button type="button" onclick="StopVideoModal()" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
