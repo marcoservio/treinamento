@@ -6,7 +6,7 @@
                 <div class="media-body">
                     <div class="imgVideo">
                         <h5 class="mt-0 mb-1">Localizando cliente</h5>
-                        Esse video mostra o processo de licalizar um cliente pelo SIAO
+                        Esse video mostra o processo de localizar um cliente pelo SIAO.
                     </div>
                 </div>
             </a>
@@ -68,7 +68,7 @@
         </li>
     </ul>
     <?php
-        include 'templates/footer.tpl'
+        include 'templates/footer.tpl';
     ?>
 </div>
 

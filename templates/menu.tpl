@@ -47,7 +47,7 @@
                                                             <a class="nav-link" href="otrs.php">OTRS</a>
                                                         </li>
                                                         <li class="nav-item">
-                                                            <a class="nav-link" href="#">Pipeline</a>
+                                                            <a class="nav-link" href="pipeline.php">Pipeline</a>
                                                         </li>                                 
                                                     </ul>
                                                 </li>

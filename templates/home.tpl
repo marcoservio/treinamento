@@ -22,6 +22,6 @@
         </a>
     </div>
     <?php
-        include 'templates/footer.tpl'
+        include 'templates/footer.tpl';
     ?>
 </div>

@@ -12,7 +12,7 @@
         
             include 'templates/menu.tpl';
             
-            include 'templates/siao.tpl'
+            include 'templates/siao.tpl';
         ?>
     </body>
 </html>

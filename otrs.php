@@ -12,7 +12,7 @@
         
             include 'templates/menu.tpl';
             
-            include 'templates/otrs.tpl'
+            include 'templates/otrs.tpl';
         ?>
     </body>
 </html>

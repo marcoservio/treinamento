@@ -4,4 +4,4 @@
 <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"> -->
 <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/style.css">
-<script type="text/javascript" src="js/siao.js"></script>
+<script type="text/javascript" src="js/treinamento.js"></script>
