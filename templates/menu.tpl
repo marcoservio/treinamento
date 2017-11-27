@@ -90,7 +90,7 @@
                                                             <a class="nav-link" href="usuario-porta.php">Cadastro usuario porta</a>
                                                         </li>
                                                         <li class="nav-item">
-                                                            <a class="nav-link" href="otrs-sup.php">OTRS</a>
+                                                            <a class="nav-link" href="usuario-ponto.php">Cadastro usuario ponto</a>
                                                         </li>
                                                     </ul>
                                                 </li>
