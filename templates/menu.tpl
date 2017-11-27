@@ -82,11 +82,22 @@
                                                             <a class="nav-link" href="otrs-sup.php">OTRS</a>
                                                         </li>
                                                     </ul>
-                                                </li>                                                
+                                                </li>
+                                                <li class="nav-item dropdown-submenu">
+                                                    <a class="nav-link" tabindex="-1" href="#">Administração de acesso</a>
+                                                    <ul class="nav-item dropdown-menu">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="usuario-porta.php">Cadastro usuario porta</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="otrs-sup.php">OTRS</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
                                             </ul>
                                         </li>
                                         <li class="nav-item dropdown-submenu">
-                                            <a class="nav-link" href="#">Videos Educativos</a>
+                                            <a class="nav-link" href="#">Videos educativos</a>
                                             <ul class="nav-item dropdown-menu">
                                                 <li class="nav-item">
                                                     <a class="nav-link" href="navegar-e-preciso.php">Navegar é preciso</a>
@@ -104,7 +115,7 @@
                                                     <a class="nav-link" href="comparacao.php">Comparação</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a class="nav-link" href="melhor-antivirus.php">Melhor Antivírus</a>
+                                                    <a class="nav-link" href="melhor-antivirus.php">Melhor antivírus</a>
                                                 </li>
                                             </ul>
                                         </li>
